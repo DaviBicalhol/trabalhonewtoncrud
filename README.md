@@ -1,8 +1,19 @@
-# Gerenciamento de Produtos (CRUD em React)
-O professor pediu para criarmos um sistema de cadastro de produtos com *CRUD* completo (Create, Read, Update e Delete). 
-A ideia era sair daquelas páginas estáticas e criar um Painel Administrativo funcional onde a gente pudesse adicionar novos fones, teclados e PCs gamers, além de poder editar o preço ou excluir um produto que saiu de linha. Tudo isso refletindo na mesma hora na "vitrine" da loja.
+Loja Virtual CRUD — Trabalho Acadêmico (Newton Paiva)
 
-## 🛠️ Tecnologias Utilizadas
-- *React.JS:* Usado para criar a interface e gerenciar os estados.
-- *Vite:* Usamos como bundler para criar e rodar o projeto bem mais rápido do que o Create React App tradicional.
-- *CSS3:* Para a estilização.
+Simulação de loja virtual desenvolvida como trabalho da faculdade (Análise e Desenvolvimento de Sistemas — Centro Universitário Newton Paiva).
+
+ Sobre o projeto
+
+Aplicação que simula o fluxo básico de uma loja virtual, com cadastro de produtos e preços, carrinho de compras e modal de pagamento — praticando o conceito de CRUD (Create, Read, Update, Delete).
+
+ Funcionalidades
+Cadastro de produtos (nome, preço)
+Listagem de produtos cadastrados
+Edição e remoção de produtos
+Carrinho de compras
+Modal de finalização/pagamento
+
+ Tecnologias utilizadas
+HTML5
+CSS3
+JavaScript
